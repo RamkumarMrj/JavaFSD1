@@ -2,7 +2,7 @@
 
 --- 
 
-### File operation
+**File operation:** 
  - View Existing Files
  - Goto Files options
    - Add Files
